@@ -1,2 +1,2 @@
 *.ico
-*.png
+__pycache__/
